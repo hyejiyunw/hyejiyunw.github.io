@@ -1,9 +1,7 @@
-
 ---
 layout: post
-title:  "HTML Introduction"
+title: "HTML Introduction"
 author: "Hyeji Yun"
-comments: true
 tags: HTML
 ---
 
